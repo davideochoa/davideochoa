@@ -1,5 +1,5 @@
 # David E. Ochoa Diaz
-## Desarrollador de Software y soporte tecnico.
+Desarrollador de Software y soporte tecnico.
 ### Entusiasta del cómputo, del autoaprendizaje y la naturaleza.
 
 
