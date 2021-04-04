@@ -1,7 +1,6 @@
 # David E. Ochoa Diaz
 ## Desarrollador de Software y soporte tecnico.
-### Entusiasta del cómputo, del autoaprendizaje y la naturaleza, comprometido con la familia y la sociedad, consciente que los objetivos se logran con trabajo y aprendizaje, enfocado es buscar soluciones a problemas en lugar de culpables, siempre saliendo de la zona de confort para buscar una superación personal y familiar.
-
+### Entusiasta del cómputo, del autoaprendizaje y la naturaleza.
 
 
 ###Hi there 👋
