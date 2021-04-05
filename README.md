@@ -5,13 +5,9 @@ Entusiasta del cómputo, del autoaprendizaje y la naturaleza, siempre saliendo d
 **EXPERIENCIA PROFESIONAL**
 |EMPRESA|PERIODO|PUESTO|
 | :-: | :-: | :-: |
-||||
 |Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD)|(2004 - actual)|Soporte TécnicoDesarrollador de software|
-||||
 |Instituto Tecnológico de Estudios Superiores del Estado de Campeche|(2013 – 2016)|Docente|
-||||
 |Cadena de Supermercados San Francisco de Asís|(2002 - 2003)|Soporte Técnico|
-||||
 |Mayacua, S.A. de C.V|(2001)|Soporte Técnico|
 
 **EDUCACIÓN**
