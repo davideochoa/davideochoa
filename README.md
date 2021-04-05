@@ -25,14 +25,12 @@ Entusiasta del cómputo, del autoaprendizaje y la naturaleza, siempre saliendo d
 **HABILIDADES**
 
 TECNICAS
-
 - Soporte Técnico
 - Redes de datos
 - Desarrollo de software
 - Electrónica
 
 LENGUAJES DE PROGRAMACION
-
 - BASIC
 - COBOL
 - PASCAL
@@ -46,7 +44,6 @@ LENGUAJES DE PROGRAMACION
 - ARDUINO
 
 PERSONALES
-
 - Trabajo en equipo
 - Liderazgo
 - Pensamiento crítico
