@@ -1,9 +1,10 @@
 # DAVID ENRIQUE OCHOA DIAZ.
 <p>Entusiasta del cómputo, del autoaprendizaje y la naturaleza, siempre saliendo de la zona de confort para buscar una superación personal y familiar.</p>
 
-|**EXPERIENCIA PROFESIONAL**|
+**EXPERIENCIA PROFESIONAL**
+**Instituto de Servicios Descentralizados de Salud Pública del Gobierno del Estado de Campeche (INDESALUD).**|**2004 - actual**|**Soporte Técnico / Desarrollador de software**
 
-|**Instituto de Servicios Descentralizados de Salud Pública del Gobierno del Estado de Campeche (INDESALUD).**|**2004 - actual**|**Soporte Técnico / Desarrollador de software**|
+
 | :- | :-: | :-: |
 |SOPORTE TECNICO A MICROCOMPUTADORAS, REDES Y PERIFERICOS.|||
 |<p>- Instalar, inspeccionar ajustar, alinear, reemplazar, reparar y probar los equipos y componentes informáticos, de computadoras y periféricos.</p><p>- Evaluar e instalar hardware de computadora, software de red, software de sistema operativo y aplicaciones de software.</p>|<p>- Informar a los clientes de la evolución de los servicios de mantenimiento.</p><p>- Consultar guías de usuario, manuales técnicos y otros documentos para investigar e implementar soluciones.</p><p>- Recopile, organice y mantenga un registro de problemas y soluciones para que lo utilicen otros analistas de soporte técnico.</p>|
