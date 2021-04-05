@@ -3,7 +3,7 @@
 Entusiasta del cómputo, del autoaprendizaje y la naturaleza, siempre saliendo de la zona de confort para buscar una superación personal y familiar.
 
 **EXPERIENCIA PROFESIONAL**
-
+||||
 | :- | :-: | :-: |
 ||||
 |Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD)|(2004 - actual)|Soporte TécnicoDesarrollador de software|
