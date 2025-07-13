@@ -1,25 +1,17 @@
-# 👋 Hola, soy David Ochoa / Hi, I'm David Ochoa
+# 👋 Hi, I'm David Ochoa
 
-## 💼 Desarrollador Java | Soporte Técnico | Arquitecto de Soluciones  
-## 💼 Java Developer | IT Support | Solutions Architect
-
----
-
-## 🌍 Language / Idioma
-
-🔹 [Español](#español)  
-🔹 [English](#english)
+## 💼 Java Developer | IT Support Specialist | Solutions Architect
 
 ---
 
-## 🛠️ Tecnologías / Technologies
+## 🛠️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=Red-Hat-OpenShift&logoColor=white)
@@ -28,43 +20,36 @@
 
 ---
 
-## 📘 Español
+## 📌 About Me
 
-🎯 Más de 16 años de experiencia programando en Java, incluyendo:
-- Spring Boot, JPA (Hibernate), REST APIs
-- Despliegue en Apache Tomcat y Jenkins
-- Documentación con Swagger/OpenAPI
-- Calidad de código con SonarQube
-- Integración con bases de datos relacionales
-- Automatización de procesos y generación de reportes con JasperReports
+With over **16 years of experience in Java development**, I specialize in backend solutions using:
 
-💻 Experiencia en:
-- **Banregio** – Automatización, integración de servicios, cumplimiento de SLAs, soporte y backend
-- **Secretaría de Salud (INDESALUD)** – Soporte hospitalario, trazabilidad de pacientes, control de inventarios e incidencias
-
-🌍 Actualmente en Irlanda, estudiando inglés (nivel B1), disponible para oportunidades con patrocinio de visa en Europa.
+- **Spring Boot**, **JPA (Hibernate)**, and **REST APIs**
+- **Deployment** on **Apache Tomcat** and **CI/CD pipelines with Jenkins**
+- **API documentation** with **Swagger/OpenAPI**
+- **Code quality** assurance using **SonarQube**
+- **Database integration** (MySQL, Oracle)
+- **Process automation** and **PDF/email reports** with JasperReports
 
 ---
 
-## 📗 English
+## 💼 Work Experience Highlights
 
-🎯 Over 16 years of Java development experience, including:
-- Spring Boot, JPA (Hibernate), REST APIs
-- Deployment using Apache Tomcat and Jenkins
-- API documentation with Swagger/OpenAPI
-- Code quality with SonarQube
-- Relational database integration
-- Process automation and reporting with JasperReports
+- **Banregio (Banking)**  
+  Developed and maintained backend services, integrated APIs, automated processes, implemented scheduled jobs, and met SLA targets. Worked in agile environments and supported new product launches (debit/credit cards, insurance).
 
-💻 Work experience:
-- **Banregio** – Automation, service integration, SLA compliance, backend development and support
-- **INDESALUD (Health Sector)** – Hospital IT support, patient tracking, inventory and incident systems
-
-🌍 Currently based in Ireland, studying English (B1 level), open to full-time roles with visa sponsorship in Europe.
+- **INDESALUD (Health Sector)**  
+  Designed systems for hospital resource tracking, incident management, patient traceability, vehicle maintenance, and stock control. Delivered IT support for directors and medical units, including network, backup, and antivirus solutions.
 
 ---
 
-## 📫 Contacto / Contact
+## 🌍 Availability
+
+I'm currently based in **Ireland**, studying **English (B1)** and actively looking for **full-time positions with visa sponsorship in Europe**, especially in **Ireland or Spain**. I have bank accounts in both Mexico and Ireland and can relocate immediately.
+
+---
+
+## 📫 Contact
 
 📍 Limerick, Ireland  
 📧 [davideochoa@gmail.com](mailto:davideochoa@gmail.com)  
