@@ -5,7 +5,14 @@
 
 ---
 
-### 🛠️ Tecnologías / Technologies
+## 🌍 Language / Idioma
+
+🔹 [Español](#español)  
+🔹 [English](#english)
+
+---
+
+## 🛠️ Tecnologías / Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -21,7 +28,7 @@
 
 ---
 
-### 🇲🇽 Español
+## 📘 Español
 
 🎯 Más de 16 años de experiencia programando en Java, incluyendo:
 - Spring Boot, JPA (Hibernate), REST APIs
@@ -39,7 +46,7 @@
 
 ---
 
-### 🇬🇧 English
+## 📗 English
 
 🎯 Over 16 years of Java development experience, including:
 - Spring Boot, JPA (Hibernate), REST APIs
@@ -51,13 +58,14 @@
 
 💻 Work experience:
 - **Banregio** – Automation, service integration, SLA compliance, backend development and support
-- **INDESALUD** – Hospital IT support, patient tracking, inventory and incident systems
+- **INDESALUD (Health Sector)** – Hospital IT support, patient tracking, inventory and incident systems
 
 🌍 Currently based in Ireland, studying English (B1 level), open to full-time roles with visa sponsorship in Europe.
 
 ---
 
-📫 **Contacto / Contact:**  
+## 📫 Contacto / Contact
+
 📍 Limerick, Ireland  
 📧 [davideochoa@gmail.com](mailto:davideochoa@gmail.com)  
 📞 +353 83 4233 432
