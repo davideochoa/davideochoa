@@ -1,50 +1,50 @@
-# 👋 Hola, soy David Ochoa
-### Senior Software Engineer | Java Backend | Especialista en Infraestructura IT
+# 👋 Hi, I'm David Ochoa
+### Senior Software Engineer | Java Backend | IT Infrastructure Specialist
 
-Ingeniero de Software con más de 16 años de experiencia, combinando una sólida base en **Ingeniería Backend Java** (Spring Boot, Microservicios) con amplia capacidad en **Infraestructura Crítica de IT**. Me especializo en transformar procesos manuales complejos en soluciones digitales escalables, especialmente en los sectores bancario y de salud pública.
-
----
-
-### 🛠️ Tecnologías y Habilidades
-
-*   **Backend:** Java, Spring Boot, Spring Security, Microservicios, REST APIs, JWT, JasperReports, Cron Jobs.
-*   **Arquitectura e Integración:** API Gateway, Orquestación de Servicios, Integración con Core Bancario, APIs de PLD/AML.
-*   **Bases de Datos:** MySQL, PostgreSQL, Oracle, MariaDB, MS SQL Server.
-*   **DevOps e Infra:** Docker, OpenShift, Apache Tomcat, Servidores Linux/Windows, Redes TCP/IP, Jenkins.
-*   **Herramientas:** Git, Maven, Jira, Confluence, Swagger/OpenAPI, Postman, SonarQube.
-*   **En formación:** Inteligencia Artificial (Python, Limpieza de datos, Análisis exploratorio).
+I am a Software Engineer with over 16 years of experience, combining deep expertise in **Java Backend Engineering** (Spring Boot, Microservices) with a strong background in **Critical IT Infrastructure**. I specialize in transforming complex manual processes into scalable digital solutions, particularly in Banking and Public Health sectors.
 
 ---
 
-### 💼 Experiencia Destacada
+### 🛠️ Technologies & Skills
 
-#### **Banregio (Banca)** | *Desarrollador Backend Java*
-*   Desarrollo de microservicios para **Onboarding Digital**, permitiendo la adquisición automatizada de tarjetas de crédito/débito.
-*   Diseño de una **Capa de Orquestación** para productos de seguros (Vida, Auto, Hogar), centralizando las peticiones del frontend.
-*   Implementación de flujos de seguridad con **JWT** e integración de APIs para prevención de lavado de dinero (PLD).
-*   Automatización de documentos legales y contratos mediante **JasperReports**.
-
-#### **INDESALUD (Sector Salud)** | *Ingeniero de Software y Soporte IT*
-*   Desarrollo del **Sistema de Inventario Universal** para almacenes estatales (Vacunación, Banco de Sangre).
-*   Creación del **Sistema de Gestión de Incidentes IT** y migración a **Vaadin** para uso en dispositivos móviles.
-*   Gestión integral de infraestructura: servidores, cableado estructurado y soporte técnico en sitio para más de 150 centros de salud.
-
-#### **Educación**
-*   **Maestría en Inteligencia Artificial** (En curso)
-*   **Maestría en Gestión Estratégica en Ingeniería de Software** (UNINI)
-*   **Licenciatura en Informática** (IT Campeche)
+*   **Backend:** Java, Spring Boot, Spring Security, Microservices, REST APIs, JWT, JasperReports, Cron Jobs.
+*   **Architecture & Integration:** API Gateway, Service Orchestration, Core Banking Integration, AML/KYC APIs.
+*   **Databases:** MySQL, PostgreSQL, Oracle, MariaDB, MS SQL Server.
+*   **DevOps & Infra:** Docker, OpenShift, Apache Tomcat, Linux/Windows Server, TCP/IP Networking, Jenkins.
+*   **Tools:** Git, Maven, Jira, Confluence, Swagger/OpenAPI, Postman, SonarQube.
+*   **Currently Learning:** Artificial Intelligence (Python, Data Cleaning, Exploratory Analysis).
 
 ---
 
-### 🌍 Disponibilidad y Reubicación
-*   📍 **Ubicación actual:** Limerick, Irlanda.
-*   🇮🇪 **Estado:** Perfeccionando fluidez en inglés (Nivel B1/B2).
-*   🇪🇺 **Objetivo:** Buscando oportunidades full-time con **Patrocinio de Visa** en Irlanda, España o Europa en general.
-*   🚀 **Disponibilidad inmediata para reubicación.**
+### 💼 Professional Highlights
+
+#### **Banregio (Banking)** | *Java Backend Developer*
+*   Developed microservices for **Digital Onboarding**, enabling automated credit/debit card acquisition.
+*   Designed an **Orchestration Layer** for insurance products (Life, Auto, Home), centralizing frontend requests.
+*   Implemented security flows using **JWT** and integrated **Anti-Money Laundering (AML)** validation APIs.
+*   Automated legal document generation using **JasperReports**.
+
+#### **INDESALUD (Public Health)** | *Software Engineer & IT Support*
+*   Developed a **Universal Inventory System** for state-wide warehouses (Vaccination, Blood Bank).
+*   Built an **IT Incident Management System** and migrated it to **Vaadin** for mobile accessibility.
+*   Managed end-to-end infrastructure: servers, structured cabling, and remote field support for 150+ health centers.
+
+#### **Education**
+*   **Master’s in Artificial Intelligence** (In Progress)
+*   **Master’s in Strategic Management in Software Engineering** (UNINI)
+*   **B.Sc. in Computer Science** (IT Campeche)
 
 ---
 
-### 📫 Contacto
+### 🌍 Availability & Relocation
+*   📍 **Current Location:** Limerick, Ireland.
+*   🇮🇪 **Status:** Currently improving English fluency (B1/B2 level).
+*   🇪🇺 **Goal:** Seeking full-time roles with **Visa Sponsorship** in Ireland, Spain, or wider Europe.
+*   🚀 **Ready for immediate relocation.**
+
+---
+
+### 📫 Contact Me
 *   **Email:** [davideochoa@gmail.com](mailto:davideochoa@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/davideochoadiaz](https://linkedin.com/in/davideochoadiaz)
-*   **Teléfono:** +353 83 4233 432
+*   **Phone:** +353 83 4233 432
